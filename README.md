@@ -1,32 +1,31 @@
 # Swedish-Tea-Ring
 Recipe for Swedish Tea Ring
 
-Ingredients:
+## Ingredients
 
-For the Enriched Dough:
+### For the Enriched Dough:
+- 1 package active dry yeast
+- ¼ cup lukewarm water (for yeast)
+- 1 cup milk
+- 2 tablespoons sugar (for dough)
+- 2 teaspoons salt
+- 2 tablespoons shortening
+- ¾ cup lukewarm water (additional, for dough)
+- 1 egg, lightly beaten
+- 2 tablespoons melted butter (for dough)
+- Approximately 6 cups flour (adjust as needed)
 
-1 package active dry yeast
-¼ cup lukewarm water (for yeast)
-1 cup milk
-2 tablespoons sugar (for dough)
-2 teaspoons salt
-2 tablespoons shortening
-¾ cup lukewarm water (additional, for dough)
-1 egg, lightly beaten
-2 tablespoons melted butter (for dough)
-Approximately 6 cups flour (adjust as needed)
-For Tea Ring Filling:
+### For Tea Ring Filling:
+- Melted butter (for brushing the dough)
+- Brown sugar (to taste)
+- Cinnamon (to taste)
+- Raisins (to taste)
 
-Melted butter (for brushing the dough)
-Brown sugar (to taste)
-Cinnamon (to taste)
-Raisins (to taste)
-For Decoration:
-
-½ cup confectioners' sugar (for frosting)
-1 to 1½ tablespoons light cream (for frosting)
-Chopped nuts (optional)
-Candied fruit (optional)
+### For Decoration:
+- ½ cup confectioners' sugar (for frosting)
+- 1 to 1½ tablespoons light cream (for frosting)
+- Chopped nuts (optional)
+- Candied fruit (optional)
 
 
 Instructions:
